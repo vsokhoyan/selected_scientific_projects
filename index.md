@@ -157,28 +157,6 @@ A key methodological contribution is an information accretion-aware ensemble agg
 
 ---
 
-### Applied Machine Learning
-
-#### Entity Resolution
-
-Development and evaluation of Machine Learning methods for entity resolution under real-world data-quality conditions, including typographical variations, OCR distortions, missing information and inconsistent formatting.
-
-The work combines neural similarity learning, transformer-based representations, classical Machine Learning and graph-based methods. A particular focus is placed on comparative model evaluation, error analysis, robustness under changing data conditions, and the development of reproducible Machine Learning workflows.
-
-**Main topics:**
-
-* Siamese neural networks for pairwise similarity learning
-* Transformer-based approaches including Sentence-BERT (SBERT)
-* Classical Machine Learning using engineered similarity features
-* Graph-based entity resolution and clustering
-* Model comparison, validation and error analysis
-* Robustness to real-world data-quality and distribution effects
-* Development of reproducible Machine Learning workflows for operational integration
-
-**Outcome:** Development and validation of Machine Learning methods for integration into entity-resolution workflows.
-
----
-
 ## Experimental & Scientific Leadership
 
 ### Active Target TPC Development (PRES / A2 Collaboration)
