@@ -46,7 +46,7 @@ Developed an event-by-event Machine Learning method for identifying time-correla
 * Use of physically motivated event information for classification
 * Quantitative validation against the established conventional analysis method
 
-**Outcome:** The Machine Learning approach reproduced the results of the conventional physics analysis while enabling event-by-event identification of correlated events. Published in the Journal of Instrumentation (JINST) in 2023.
+**Outcome:** The Machine Learning approach reproduced the results of the conventional physics analysis while enabling event-by-event identification of correlated events. Published in the Journal of Instrumentation (JINST).
 
 **Link:**
 
