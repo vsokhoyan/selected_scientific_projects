@@ -4,14 +4,14 @@ I am an Experimental Physicist and Machine Learning practitioner with more than 
 
 A common thread throughout this work is the formulation of difficult quantitative problems in ways that allow competing mechanisms, models or explanations to be tested systematically. In recent years, I have increasingly applied this scientific methodology using modern Machine Learning and Deep Learning methods.
 
-[Selected Scientific Research](#selected-scientific-research) ·
-[Scientific Machine Learning](#scientific-machine-learning) ·
+[Selected Scientific Research and Machine Learning](#selected-scientific-research-and-machine-learning) ·
+[Machine Learning Projects](#machine-learning-projects) ·
 [Experimental & Scientific Leadership](#experimental--scientific-leadership) ·
 [Research Profiles](#research-profiles)
 
 ---
 
-## Selected Scientific Research
+## Selected Scientific Research and Machine Learning
 
 ### Carl Zeiss Research Fellowship (Project Leader)
 
@@ -32,6 +32,25 @@ Proposed and led a new experimental approach using polarization observables to i
 
 * V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π⁰η pairs on carbon, aluminum, and lead”, Phys. Lett. B 802, 135243 (2020), [Read on arXiv](https://arxiv.org/abs/1907.00232).
 * V. Sokhoyan, S. Prakhov, A. Fix et al., “Study of the γp → π⁰ηp reaction with the A2 setup at MAMI”, Phys. Rev. C 97, 055212 (2018), [Read on arXiv](https://arxiv.org/abs/1803.00727).
+
+---
+
+### Machine Learning for Identification of Correlated Events in Nuclear Physics Experiments
+
+Developed an event-by-event Machine Learning method for identifying time-correlated physical events in tagged-photon experiments as an alternative to conventional statistical background subtraction. The approach combines GEANT4-simulated signal events with experimentally measured background and was validated against established physics-analysis methods.
+
+**Main contributions:**
+
+* Reformulation of statistical background subtraction as an event-level Machine Learning classification problem
+* Combination of simulated physical signal with experimentally measured background for model development
+* Use of physically motivated event information for classification
+* Quantitative validation against the established conventional analysis method
+
+**Outcome:** The Machine Learning approach reproduced the results of the conventional physics analysis while enabling event-by-event identification of correlated events. Published in the Journal of Instrumentation (JINST) in 2023.
+
+**Link:**
+
+* V. Sokhoyan, E. Mornacchi, “A new Machine Learning-based method for identification of time-correlated events at tagged photon facilities”, Journal of Instrumentation 18, P10007 (2023), [Read on arXiv](https://arxiv.org/abs/2307.04776).
 
 ---
 
@@ -77,21 +96,7 @@ Investigation of the excitation spectrum and internal dynamics of the nucleon th
 
 ---
 
-## Scientific Machine Learning
-
-### Nuclear Physics
-
-#### ML for Identification of Correlated Events in Nuclear Physics Experiments
-
-Developed an event-by-event Machine Learning method for identifying time-correlated physical events in tagged-photon experiments as an alternative to conventional statistical background subtraction. The approach combines GEANT4-simulated signal events with experimentally measured background and was validated against established physics-analysis methods.
-
-**Outcome:** Published in the Journal of Instrumentation (JINST).
-
-**Links:**
-
-* V. Sokhoyan, E. Mornacchi, “A new Machine Learning-based method for identification of time-correlated events at tagged photon facilities”, Journal of Instrumentation 18, P10007 (2023), [Read on arXiv](https://arxiv.org/abs/2307.04776).
-
----
+## Machine Learning Projects
 
 ### Medical AI
 
